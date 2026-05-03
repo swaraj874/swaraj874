@@ -28,12 +28,12 @@ public class SwarajGupta extends Engineer {
     private final int    years    = 5;
     private final String building = "Loom — media-first platform for content creators";
     private final String learning = "AI Agent Architecture · LLD patterns · DSA";
-    private final String openTo   = "Founding Engineer | SDE2/SDE3 Backend Roles";
+    private final String openTo   = "Founding Engineer | SDE3/Senior Software Engineer Roles";
 
     @Override
     public String toString() {
         return "5 years shipping enterprise-grade distributed systems at Cisco & Capgemini. " +
-               "Java 21, Spring Boot, Kafka, Redis — consistently delivering measurable " +
+               "Java 21, Spring Boot, Kafka, Redis ,React ,Python — consistently delivering measurable " +
                "impact at scale. Currently hacking on AI infrastructure and indie products.";
     }
 }
