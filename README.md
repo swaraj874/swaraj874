@@ -157,7 +157,6 @@ public class SwarajGupta extends Engineer {
 |:---|:---|:---|
 | 🎬 **Loom** — media-first platform for content creators | React · FastAPI · AWS | 🟡 Building |
 | 🤖 **ARIA** — personal AI OS | Spring Boot · FastAPI · Qdrant · Ollama · n8n | 🟡 Active |
-| 🔗 **EB MCP Server** — AI-native entitlement API gateway | FastMCP · LangSmith · Conjur | ✅ Shipped |
 | ⚙️ **Scaffold Generator** — POC scaffolds via Claude API | FastAPI · Claude API | ✅ Shipped |
 
 </div>
