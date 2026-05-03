@@ -1,4 +1,3 @@
-# ABOUT-ME-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Swaraj%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Java%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descAlignY=58&descSize=16&descColor=a8b2d8&animation=fadeIn" width="100%"/>
@@ -168,18 +167,7 @@ public class SwarajGupta extends Engineer {
 ## 📊 GitHub Stats
 
 <div align="center">
-
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swarajgupta&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/swarajgupta)
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swarajgupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajgupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=swarajgupta&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 </div>
 
 ---
@@ -196,8 +184,6 @@ public class SwarajGupta extends Engineer {
 ---
 
 ## 💡 Philosophy
-
-> *"I designed a personal AI OS before Microsoft Recall was a thing."*
 
 I build at the intersection of **enterprise engineering depth** and **indie hacker velocity** — obsessed with systems that scale, products that ship, and code that actually matters.
 
