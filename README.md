@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Swaraj%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20FullStack%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descAlignY=58&descSize=16&descColor=a8b2d8&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&multiline=false&width=700&lines=SDE3+%2F+Senior+Software+Engineer;5%2B+years+building+enterprise+distributed+systems;Java+21+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Kafka+%C2%B7+Redis+%C2%B7+AWS;Currently+building+Loom+%E2%80%94+media+platform+for+creators;Open+to+Founding+Engineer+%26+SDE3+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&multiline=false&width=700&lines=5%2B+years+building+enterprise+distributed+systems;Java+21+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Kafka+%C2%B7+Redis+%C2%B7+AWS;Currently+building+Loom+%E2%80%94+media+platform+for+creators;Open+to+Founding+Engineer+%26+SDE3+%2F+Senior+Software+Engineer+roles)](https://git.io/typing-svg)
 
 <br/>
 
