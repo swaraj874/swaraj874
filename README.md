@@ -6,6 +6,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-swarajfolio.vercel.app-7DF9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://swarajfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-swarajgupta14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarajgupta14)
 [![Email](https://img.shields.io/badge/Email-swaraj14041@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaraj14041@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
@@ -33,7 +34,7 @@ public class SwarajGupta extends Engineer {
     @Override
     public String toString() {
         return "5 years shipping enterprise-grade distributed systems at Cisco & Capgemini. " +
-               "Java 21, Spring Boot, Kafka, Redis ,React ,Python — consistently delivering measurable " +
+               "Java 21, Spring Boot, Kafka, Redis, React, Python — consistently delivering measurable " +
                "impact at scale. Currently hacking on AI infrastructure and indie products.";
     }
 }
@@ -156,11 +157,12 @@ public class SwarajGupta extends Engineer {
 | Project | Stack | Status |
 |:---|:---|:---|
 | 🎬 **Loom** — media-first platform for content creators | React · FastAPI · AWS | 🟡 Building |
-| 🤖 **ARIA** — personal AI OS | Spring Boot · FastAPI · Qdrant · Ollama · n8n | 🟡 Active |
+| 🔭 **Orion** — stealth AI infrastructure project | Spring Boot · FastAPI · Qdrant · Ollama · n8n | 🟡 Active |
 | ⚙️ **Scaffold Generator** — POC scaffolds via Claude API | FastAPI · Claude API | ✅ Shipped |
 
 </div>
-------
+
+---
 
 ## 🎓 Certifications & Learning
 
