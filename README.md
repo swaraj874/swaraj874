@@ -114,10 +114,10 @@ public class SwarajGupta extends Engineer {
 
 ## 💼 Experience
 
-<details>
+<details open>
 <summary><b>🔵 Cisco — Software Engineer II</b> &nbsp;|&nbsp; Jun 2024 – Present</summary>
 
-<br/>
+<br>
 
 > *Java · Kafka · Elasticsearch · Redis · Spring Boot · Kubernetes · FastAPI*
 
@@ -132,10 +132,10 @@ public class SwarajGupta extends Engineer {
 
 </details>
 
-<details>
+<details open>
 <summary><b>🟠 Capgemini — Senior Software Developer</b> &nbsp;|&nbsp; Jun 2021 – May 2024</summary>
 
-<br/>
+<br>
 
 > *Java · Spring Boot · Redis · Spring Batch · Microservices*
 
